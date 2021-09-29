@@ -31,7 +31,7 @@ public class SwaggerConfig {
 	}
 
 	public static ApiInfo metadata() {
-		return new ApiInfoBuilder().title("Eclectic").description("Projeto API Spring - Eclectic")
+		return new ApiInfoBuilder().title("Eclectic").description("Projeto API Spring - Otakugram")
 				.version("1.0.0").license("Apache License Version 2.0").licenseUrl("https://github.com/talisilva")
 				.contact(contact()).build();
 	}
